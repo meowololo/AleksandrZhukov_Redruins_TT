@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5222ff1-5500-464d-9392-1f106916611b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_03/W_ChildWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_03/W_ChildWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_03/W_ParentWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_03/W_ParentWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_06.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_06.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_06/BP_Task_06_Actor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_06/BP_Task_06_Actor.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "C++ Project.Redruins_TT_2024.executor": "Debug",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C++ Project.Redruins_TT_2024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ezargs.lastUsed": "",
     "git-widget-placeholder": "master",
@@ -173,7 +176,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716402521499</updated>
-      <workItem from="1716402523680" duration="1079000" />
+      <workItem from="1716402523680" duration="2664000" />
     </task>
     <servers />
   </component>
