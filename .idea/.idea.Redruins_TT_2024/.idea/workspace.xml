@@ -10,11 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5222ff1-5500-464d-9392-1f106916611b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_06.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_06.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_06/BP_Task_06_Actor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_06/BP_Task_06_Actor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_04.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_04.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_05.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_05.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_GameMode_Task_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_GameMode_Task_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_04/BP_Task_04_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_04/BP_Task_04_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_05/BP_HitPlace.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_05/BP_HitPlace.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_05/BP_PhysicBall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_05/BP_PhysicBall.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_05/BP_Task_05_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_05/BP_Task_05_Character.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +64,13 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "UnrealLinkOptionsId",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Alex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Alex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Alex\\AppData\\Local\\Symbols\\src"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="C++ Project.Redruins_TT_2024">
@@ -176,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716402521499</updated>
-      <workItem from="1716402523680" duration="2664000" />
+      <workItem from="1716402523680" duration="6705000" />
     </task>
     <servers />
   </component>
