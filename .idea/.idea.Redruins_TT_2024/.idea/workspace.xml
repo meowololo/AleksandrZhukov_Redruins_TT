@@ -11,10 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a5222ff1-5500-464d-9392-1f106916611b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Basic/Input/IMC_Input.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Basic/Input/IMC_Input.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_07.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_07.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_GameMode_Task_4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_GameMode_Task_4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_GameMode_Task_5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_GameMode_Task_5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Actor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Actor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_01/Widgets/W_Marker.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Widgets/W_Marker.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_02/BP_Actor_Test_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_02/BP_Actor_Test_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_04/BP_Task_04_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_04/BP_Task_04_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_05/BP_Task_05_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_05/BP_Task_05_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_07/BP_GrabbingProjectile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_07/BP_GrabbingProjectile.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Task_07/BP_Task_07_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_07/BP_Task_07_Character.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,30 +52,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "C++ Project.Redruins_TT_2024.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ezargs.lastUsed": "",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "UnrealLinkOptionsId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;C++ Project.Redruins_TT_2024.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ezargs.lastUsed&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLinkOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Alex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Alex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\Alex\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Alex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Alex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Alex\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.Redruins_TT_2024">
     <configuration name="Redruins_TT_2024" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -188,6 +191,7 @@
       <updated>1716402521499</updated>
       <workItem from="1716402523680" duration="6705000" />
       <workItem from="1716480665656" duration="9605000" />
+      <workItem from="1716509188754" duration="991000" />
     </task>
     <servers />
   </component>
