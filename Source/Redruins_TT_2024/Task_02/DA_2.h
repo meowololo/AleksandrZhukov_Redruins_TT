@@ -30,6 +30,6 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	EShowDA1_Link MyEnumValue;
 	
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (EditConditionHides, EditCondition = "MyEnumValue != EShowDA1_Link::value_false"))
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (EditConditionHides, EditCondition = "MyEnumValue == EShowDA1_Link::value_true"))
 	UDA_1* DA_1_Link;
 };
