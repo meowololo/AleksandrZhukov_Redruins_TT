@@ -11,8 +11,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a5222ff1-5500-464d-9392-1f106916611b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_06.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_06.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_06/BP_Task_06_Actor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_06/BP_Task_06_Actor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_07.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_07.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_07/BP_GrabbingProjectile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_07/BP_GrabbingProjectile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_07/BP_Task_07_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_07/BP_Task_07_Character.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +189,7 @@
       <workItem from="1716509188754" duration="991000" />
       <workItem from="1716641077685" duration="2100000" />
       <workItem from="1716653564981" duration="949000" />
-      <workItem from="1716669048477" duration="703000" />
+      <workItem from="1716669048477" duration="4302000" />
     </task>
     <servers />
   </component>
