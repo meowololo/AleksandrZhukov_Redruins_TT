@@ -10,18 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5222ff1-5500-464d-9392-1f106916611b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BPC_InteractionComp.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Redruins_TT_2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_01.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_01.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BPI_Identify.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BPI_Interaction.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BPI_Interaction.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Actor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Actor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Blueprints/BP_Task_01_Character.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Widgets/W_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Widgets/W_HUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_01/Widgets/W_Marker.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_01/Widgets/W_Marker.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_02/BP_DA_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_02/BP_DA_1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Task_02/BP_DA_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_02/BP_DA_2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Redruins_TT_2024/Task_02/DA_2.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Redruins_TT_2024/Task_02/DA_2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MP_Task_03.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MP_Task_03.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_03/W_ChildWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_03/W_ChildWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Task_03/W_ParentWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Task_03/W_ParentWidget.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +187,7 @@
       <workItem from="1716480665656" duration="9605000" />
       <workItem from="1716509188754" duration="991000" />
       <workItem from="1716641077685" duration="2100000" />
-      <workItem from="1716653564981" duration="307000" />
+      <workItem from="1716653564981" duration="949000" />
     </task>
     <servers />
   </component>
